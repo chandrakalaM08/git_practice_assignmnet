@@ -1,4 +1,4 @@
-let num = 23;
+let num = 29;
 
 let factor_count = 0;
 for (let i = 1 ; i < N ; i++){
